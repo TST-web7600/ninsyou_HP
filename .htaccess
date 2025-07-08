@@ -1,0 +1,2 @@
+AddDefaultCharset shift-jis
+AddType "text/html; charset=shift-jis" .html

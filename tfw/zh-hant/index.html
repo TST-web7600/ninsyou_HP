@@ -1,0 +1,86 @@
+<!doctype html>
+<head>
+<meta charset="utf-8">
+<title>同意規章 | TOYAMA Free Wi-Fi</title>
+<meta name="description" content="TOYAMA Free Wi-Fi">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache,no-store">
+<meta http-equiv="Expires" content="0">
+<!-- *** stylesheet *** -->
+<link rel="stylesheet" href="../css/default.css">
+<link rel="stylesheet" href="../css/style.css">
+<!-- *** javascript *** -->
+<script type="text/javascript">
+/* <![CDATA[ */
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-544436-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+/* ]]> */
+</script>
+<script type="text/javascript">
+function get_param(name)
+{
+if (location.href.indexOf("?") >= 0)
+{
+var query=location.href.split("?")[1];
+var params=query.split("&");
+for (var i = 0; i < params.length; i ++) {value_pair=params[i].split("=");
+if (value_pair[0] == name)
+return (value_pair[1]);
+}
+}
+return "";
+}
+</script>
+<script type="text/javascript" src="../js/jquery.js" charset="utf-8"></script>
+<!--[if lt IE 9]>
+<script src="js/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+<header id="main_header">
+  <h1 id="title_main"><img src="../images/logo.png" width="315" height="86" alt="TOYAMA Free Wi-Fi" ></h1>
+</header>
+<div class="menu-area">
+  <div class="menu">
+    <ul>
+      <script type="text/javascript">
+      document.write('<li><a href="../ja/index.html">日本語</a></li>')
+      document.write('<li><a href="../en/index.html">English</a></li>')
+      document.write('<li><a href="../zh-hant/index.html" class="active">繁体中文</a></li>')
+      document.write('<li><a href="../zh-hans/index.html">简体中文</a></li>')
+      document.write('<li><a href="../ko/index.html">한국어</a></li>')
+      </script>
+    </ul>
+  </div>
+</div>
+<div class="inner_block">
+  <p>選擇使用語言</p>
+  <p>同意使用規約後﹐請點選「同意」</p>
+  <p>本項服務為了讓所有人﹐包含海外來的旅客都能簡便的使用﹐因此並沒有實施WEP等的無線網路加密安全機制。若您需要高安全性的網路通訊服務﹐建議您利用公用無線LAN等服務。</p>
+  <ul class="text_link">
+    <li><a href="kiyaku.html">使用規約</a></li>
+  </ul>
+
+<form method=POST action="http://10.254.1.254:9997/SubscriberPortal/hotspotlogin">
+<script>
+document.write('<input type="hidden" name="url" value="'+get_param("url")+'" />');
+document.write('<input type="hidden" name="proxy" value="'+get_param("proxy")+'" />');
+document.write('<input type="hidden" name="uip" value="'+get_param("uip")+'" />');
+document.write('<input type="hidden" name="client_mac" value="'+get_param("client_mac")+'" />');
+</script>
+
+    <input type="hidden" name="username" value="bousai" />
+    <input type="hidden" name="password" value="bousaihp" />
+    <input type="submit" value="同　意" class="send" >
+  </form>
+</div>
+</body>
+</html>

@@ -1,0 +1,72 @@
+﻿(Purpose)
+Article 1: These terms stipulate necessary matters with regards to the usage of the wireless Internet connection environment - TOYAMA Free Wi-Fi (hereinafter, referred to as 'this service') – that was organized by Cable Television Toyama Inc. (hereinafter, referred to as 'we', 'our' or 'us'). 
+
+(Contents of the service)
+Article 2: We provide Internet connection service via this service to those who intend to use this service (hereinafter, referred to as 'users') according to the methods we set. 
+
+(The purposes of obtaining and recording the terminal information and its usages)
+Article 3: We obtain and record individual identification information (MAC address), IP address upon connections, usage hours, usage areas and usage languages. 
+2.     We use that information for the purposes of researching usage situations, improving this service and coping with inquiries from the users. Also, we may provide such information as the number of users, usage hours, terminals used and/or languages used after we treat the information as statistical data that cannot be used to indentify individual users for the utilizations by third parties. 
+
+(Usage conditions)
+Article 4: We shall not allow this service to be used for commercial purposes. However, in the event we acknowledge that this needs to be done, we may permit it. 
+2.    We may restrict connections to this service, or connections to specified websites by contents filters and such based on the records mentioned in the previous article in order to realize proper usages of this service. 
+3.    As regards to viewing and connecting to the websites that use this service, we may limit the connection hours to those sites. 
+4.    This service does not encrypt the wireless. The users use this service at their own risk. 
+5.    Users are to prepare their own computer terminal equipments with wireless LAN functions.    
+6.    Users are to provide electric source for their computer terminal equipments they use. 
+7.    Upon uses of this service, users are to comply with the Act concerning the Prohibition of Unauthorized Computer Access (2000 Act No.128) and other related laws and regulations and such. 
+8.    Usage fee of this service is free. 
+
+(Stop of usage)      
+Article 5: We may immediately stop usage of users without a prior notice in the event they fall under any of the categories listed in the following items:
+(1)    In the event they have done any of the conducts that are prohibited in Article 6
+(2)    In the event they violated these terms of usage, other than they have done any of those which are defined in the previous item
+(3)    When we decided them as unsuitable users for this service
+
+(Prohibited matters)
+Article 6: Users shall be prohibited from conducting any of the following acts:
+(1)	   Any acts that infringe or are likely to infringe the copyrights, trademark rights and other intellectual property rights of others or ours
+(2)	   Any acts that infringe or are likely to infringe properties, privacies or image rights of others
+(3)	   Any acts that discriminate, abuse or insult others unfairly, and that foment unfair discriminations to others, defame or discredit others 
+(4)	   Any acts that lead to, or are highly likely to lead to criminal acts such as frauds, child prostitutions, illegal sales and purchases of bank accounts and mobile phones
+(5)	   Any acts of disseminating or showing images, videos, sounds and documents that are comparable to obscenities, child pornographies and child abuses, sales of these kinds of media and/or displaying advertisements that anticipates the transmissions, displaying and sales of those kinds of media 
+(6)	   Any acts that lead to or highly likely to lead to drug crimes and abuses of controlled substances, or any acts of advertising unapproved drugs. 
+(7)	   Any acts that advertise money loaning without having registrations for money lending businesses 
+(8)	   Any acts of setting up pyramid finance schemes and soliciting members to them  
+(9)	   Any acts that illegally rewrite or delete the information data accumulated in our facilities
+(10)   Any acts of using this service as someone else
+(11)   Any acts of transmitting or posting harmful programs such as viruses 
+(12)	   Any acts of sending advertisements, soliciting email to others without permissions, or sending email that cause or may cause repulsive feelings in the light of common sense
+(13)	   Any acts that interfere or are likely to interfere uses and/or operations of the facilities or equipments for Internet connections of ours or others parties 
+(14)	   Any acts of operating illegal gambling and/or soliciting participations to illegal gambling  
+(15)	   Any acts of undertaking, brokering or soliciting (including requesting other parties) criminal acts (sales of fire arms, illegal productions of explosives, providing child pornographies, forging of official documents, murders, threatening, etc.)
+(16)	   Any acts of disseminating cruel image information such as murder scenes, killing and abusing scenes of animals, or other information that cause extremely repulsive feelings in the light of common sense. 
+(17)	   Any acts of inducing others to commit suicides, or introducing methods of suicide that are likely to harm third parties
+(18)	   Any acts of linking in style of, or for the purpose of promoting such acts, knowing that those acts are such that correspond previous item.  
+(19)	   Any acts of fomenting posting or disseminating such information by unspecified users that lead, or are highly likely to lead to criminal or illegal acts, or fomenting such information that defame, insult others, or infringe privacies. 
+(20)	   Any other acts that we deem as offensive to public order and morality, or infringing rights of others
+
+(Stop of the service)
+Article 7: We may stop this service in the case any of following items apply:
+(1)    When we conduct maintenance of this service system regularly or in emergency
+(2)    When the normal operation of this service becomes impossible due to wars, riots, social disorders, labor disputes, earthquakes, eruptions, floods, tsunamis, fires, power failures and other emergency situations
+(3)    When we have inevitable reasons such as failures of the facilities or the network related to the system of this service
+(4)    When we decide it is necessary to stop this service temporarily in order for the operation of this service
+
+(Immunities)
+Article 8: We shall not guarantee the information users may obtain through this service as to its completeness, accuracies, certainties, usefulness and such. 
+2.    We shall not be responsible for the losses of any information users may have registered, provided or collected, for the damages incurred to users' computers by computer viruses and such, damages of data, leakage of data, or any other damages incurred in association with this service.
+3.    For the pay services users have used through the Internet, the relevant users shall be responsible regardless of the reasons.
+4.    As regards setting up each user's equipment related to the connection to this service, users shall be responsible. We shall not be responsible in any manners, should there be any events users are not able to use this service due to their wireless LAN connecting devices, basic software, software, web browsers and such. 
+5.    We shall not be responsible in any manners for the conflicts and such that users may have with other users or with the third parties due to their usage of this service. 
+6.    This service does not encrypt the wireless. Should users, upon usage of this service, have their ID, passwords, credit card numbers and such important personal information exploited by the third parties, we shall not be responsible. 
+
+(Changes of these terms of usage)
+Article 9: We may change these terms of usage without acknowledgments of users. 
+
+(Governing law and judicial district)
+Article 10: The governing law of these terms shall be Japanese law, and in the event there shall be disputes between users and us related to these terms or this service, Toyama District Court shall be the agreed exclusive first instance court of jurisdiction.  
+
+Additional Clause
+These terms will be in effect as of March 14, 2015.

@@ -1,0 +1,25 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<meta name="viewport" content="width=device-width">
+<title></title>
+
+<script type="text/javascript">
+function formsubmit() {
+document.getElementById('form1').submit();
+timerId = setInterval("document.getElementById('form2').submit()", 2000);
+}
+</script>
+
+</head>
+
+<body>
+<center><br><br>
+<form id="form1" method=POST action="http://192.168.10.10:9997/SubscriberPortal/hotspotlogin"> <input type="hidden" name="username" value="bousaihp" /> <input type="hidden" name="password" value="bousaihp"/></form>
+<form id="form2" method=POST action="http://192.168.10.11:9997/SubscriberPortal/hotspotlogin"> <input type="hidden" name="username" value="bousaihp" /> <input type="hidden" name="password" value="bousaihp"/></form>
+
+<button onclick="formsubmit()">ログイン</button><br>
+<br>
+電波の弱い場合など、ログインボタンを押してから認証までに5秒程度かかる場合があります。
+
+<br><br></center></body></html>
